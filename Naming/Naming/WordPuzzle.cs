@@ -3,6 +3,8 @@
     public class WordPuzzle
     {
         /*
+         * Fonksiyon isimleri; eylemlerden ve emir kiplerinden (yap, et, al, hesapla, taşı, kopyala vs) oluşmalıdır. 
+         * 
          * 1. Belirli bir dosyadan rastgele bir kelime seç.
          * 2. Bu kelimenin her harfini *'a dönüştür.
          * 3. Kullanıcının girdiği harfi denetle.
