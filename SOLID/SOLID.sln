@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP\SRP.csproj", "{B537F0AC-82F6-4525-A90D-B9081D810E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCP", "OCP\OCP.csproj", "{28DF27E5-3C2A-4ECC-ADAA-DA674C11302D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B537F0AC-82F6-4525-A90D-B9081D810E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B537F0AC-82F6-4525-A90D-B9081D810E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B537F0AC-82F6-4525-A90D-B9081D810E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B537F0AC-82F6-4525-A90D-B9081D810E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28DF27E5-3C2A-4ECC-ADAA-DA674C11302D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DF27E5-3C2A-4ECC-ADAA-DA674C11302D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DF27E5-3C2A-4ECC-ADAA-DA674C11302D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DF27E5-3C2A-4ECC-ADAA-DA674C11302D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2DBCF39-D57A-4589-925D-6CB1921D502D}
+	EndGlobalSection
+EndGlobal
